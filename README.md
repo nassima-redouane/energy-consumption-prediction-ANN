@@ -1,4 +1,4 @@
-# 🔥 Building Energy Consumption Prediction (ANN)
+# Building Energy Consumption Prediction (ANN)
 
 ## 📌 Project Overview
 
